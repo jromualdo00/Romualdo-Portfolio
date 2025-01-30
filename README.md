@@ -1,9 +1,38 @@
-# Romualdo-Portfolio
+# Romualdo Portfolio
+- [About me](#about-me)
+- [CV](#cv)
+- [Skills](#skills)
+- [Tools](#tools)
+- [Courses](#courses)
+- [Examples of my work](#examples-of-my-work)
+  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+- [Books I have read](#books-i-have-read)
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+## About Me
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+## Curriculum Vitae
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1vxhroPwtZlC4t_Kw12oeOlKDoJIEKnqc/view?usp=drive_link).
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+## Skills
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+## Tools
+
+## Courses
+__Quality Assurance Mastery - Manual Software Testing__  
+*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
+An intensive course in test automation with Robot Framework.  
+[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
+*Level 2-4 in progress*
+
+__The 1st Online Institute of Software Testing__  
+*online course by Quality Lab, Moscow, Russia*  
+A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
+[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
+
+__Onboarding to Testing · Jedi Point__  
+*online course by Quality Lab, Moscow, Russia*  
+An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
+[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
+
+## Example of my work
