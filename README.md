@@ -4,7 +4,7 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
+- [Example of my work](#examples-of-my-work)
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 - [Books I have read](#books-i-have-read)
@@ -15,7 +15,7 @@
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1lank3FD6OZd3rIXxPQ6urqDkwKIb7Fm9/view?usp=sharing).
 
 ## Skills
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+You can find examples of the described skills in the [Example of my work](#examples-of-my-work) section.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
