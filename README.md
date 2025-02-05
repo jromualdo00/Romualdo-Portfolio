@@ -4,10 +4,9 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
-- [Example of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+- [Example of my work](#example-of-my-work)
+  * [List of Test Specifications](#list-of-test-specifications)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-- [Books I have read](#books-i-have-read)
 
 ## About Me
 
@@ -93,3 +92,5 @@ __Communications 101__
   * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
   * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
   * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
+ 
+ ### Bug reports and work in Jira
