@@ -5,7 +5,7 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Example of my work](#example-of-my-work)
-  * [List of Test Specifications](#list-of-test-specifications-web)
+  * [List of Projects](#list-of-project)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 
 ## About Me
@@ -83,7 +83,8 @@ __Communications 101__
 
 ## Example of my work
 
-### List of Test Specifications (WEB)
+### List of Project
+__Cloudshop Portfolio Test Specification__
   * [Release 1](https://docs.google.com/spreadsheets/d/1j-GYyBVpflcO4v_CKdFuMdqqWyjW9vSY/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
   * [Release 1.2](https://docs.google.com/spreadsheets/d/1gIwqSlx0Cdo1Rb4QWrPoZ4w3v-a32wkE/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
   * [Release 1.3](https://docs.google.com/spreadsheets/d/16av_VBglhawZtlIbEfAVSKFzybQ2i1l2/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
