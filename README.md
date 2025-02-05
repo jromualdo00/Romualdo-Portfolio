@@ -12,10 +12,10 @@
 ## About Me
 
 ## Curriculum Vitae
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1vxhroPwtZlC4t_Kw12oeOlKDoJIEKnqc/view?usp=drive_link).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1lank3FD6OZd3rIXxPQ6urqDkwKIb7Fm9/view?usp=sharing).
 
 ## Skills
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+You can find examples of the described skills in the [Examples of my work](examples-of-my-work) section.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
@@ -30,7 +30,7 @@ __Mobile Testing__
   * can also test in Android Studio
     
 __API testing__
-  * know the difference between SOAP and REST APIs
+  * Primarily utilized postman for testing rest apis
   * gained experience through manual testing of APIs created for educational purposes
   * know how to manipulate requests and create test cases using the SoapUI tool
 
@@ -82,3 +82,12 @@ __Communications 101__
 [Link to the certificate](https://drive.google.com/file/d/1IFprQKlTTwpyyNsx71Q9SuiPUsThx2tY/view?usp=drive_link)
 
 ## Example of my work
+### List of Test Specifications (WEB)
+  * [Release 1](https://docs.google.com/spreadsheets/d/1j-GYyBVpflcO4v_CKdFuMdqqWyjW9vSY/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
+  * [Release 1.2](https://docs.google.com/spreadsheets/d/1gIwqSlx0Cdo1Rb4QWrPoZ4w3v-a32wkE/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
+  * [Release 1.3](https://docs.google.com/spreadsheets/d/16av_VBglhawZtlIbEfAVSKFzybQ2i1l2/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
+
+- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
+  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
+  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
+  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
