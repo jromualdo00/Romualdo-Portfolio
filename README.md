@@ -55,6 +55,7 @@ __Postman__
 __Android Studio__
   * Know how to test the APK of the mobile version of the application.
 
+
 ## Courses
 __Quality Assurance Mastery - Manual Software Testing__  
 *online courses by [Eric Alagan](https://mdscsi.udemy.com/user/ericalagan/), Udemy*  
@@ -81,7 +82,7 @@ __Communications 101__
 (24 h)   
 [Link to the certificate](https://drive.google.com/file/d/1IFprQKlTTwpyyNsx71Q9SuiPUsThx2tY/view?usp=drive_link)
 
-## Example of my work  
+## Example of my work
 
 ### List of Test Specifications (WEB)
   * [Release 1](https://docs.google.com/spreadsheets/d/1j-GYyBVpflcO4v_CKdFuMdqqWyjW9vSY/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
