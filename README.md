@@ -5,7 +5,7 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Example of my work](#example-of-my-work)
-  * [List of Test Specifications](#list-of-test-specifications)
+  * [List of Test Specifications](#list-of-test-specifications-web)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 
 ## About Me
@@ -14,7 +14,7 @@
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1lank3FD6OZd3rIXxPQ6urqDkwKIb7Fm9/view?usp=sharing).
 
 ## Skills
-You can find examples of the described skills in the [Example of my work](#examples-of-my-work) section.
+You can find examples of the described skills in the [Example of my work](#example-of-my-work) section.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
