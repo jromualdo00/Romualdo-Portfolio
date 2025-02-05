@@ -15,7 +15,7 @@
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1lank3FD6OZd3rIXxPQ6urqDkwKIb7Fm9/view?usp=sharing).
 
 ## Skills
-You can find examples of the described skills in the [Examples of my work](examples-of-my-work) section.
+You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
@@ -81,7 +81,8 @@ __Communications 101__
 (24 h)   
 [Link to the certificate](https://drive.google.com/file/d/1IFprQKlTTwpyyNsx71Q9SuiPUsThx2tY/view?usp=drive_link)
 
-## Example of my work
+## Example of my work  
+
 ### List of Test Specifications (WEB)
   * [Release 1](https://docs.google.com/spreadsheets/d/1j-GYyBVpflcO4v_CKdFuMdqqWyjW9vSY/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
   * [Release 1.2](https://docs.google.com/spreadsheets/d/1gIwqSlx0Cdo1Rb4QWrPoZ4w3v-a32wkE/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
