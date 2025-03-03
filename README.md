@@ -50,6 +50,13 @@ __Postman__
 __Android Studio__
   * Know how to test the APK of the mobile version of the application.
 
+__Pycharm Community Edition__
+  * Provides comprehensive support for Selenium, a widely used web automation framework, enabling testing of web user interfaces.
+  * Scripting
+__Robot Frameworks__
+  * create highly maintainable and scalable test scripts.
+__Selenium__
+  * The core component of Selenium, allowing direct communication with web browsers to perform actions like clicking buttons, entering text, and interacting with elements. 
 
 ## Courses
 __Quality Assurance Mastery - Manual Software Testing__  
