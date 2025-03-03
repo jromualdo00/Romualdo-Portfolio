@@ -84,10 +84,7 @@ __Cloudshop Portfolio Test Specification__
   * [Release 1](https://docs.google.com/spreadsheets/d/1j-GYyBVpflcO4v_CKdFuMdqqWyjW9vSY/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
   * [Release 1.2](https://docs.google.com/spreadsheets/d/1gIwqSlx0Cdo1Rb4QWrPoZ4w3v-a32wkE/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
   * [Release 1.3](https://docs.google.com/spreadsheets/d/16av_VBglhawZtlIbEfAVSKFzybQ2i1l2/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
-
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
  
- ### Bug reports and work in Jira
+### Bug reports and work in Jira
+__Defect reported in Jira__
+  * [Multiple UI defect](https://drive.google.com/file/d/1WOLSR-WMqHVXN00b9E8UYGUfsCAZBr7y/view?usp=sharing) - PDF file and proof of defect in [jira](https://drive.google.com/file/d/1U0tlJwKCxqEeatjGl25-fxvfqjIUgtRP/view?usp=sharing)
