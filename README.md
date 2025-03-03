@@ -1,6 +1,6 @@
 # Romualdo Portfolio
 - [About me](#about-me)
-- [CV](#cv)
+- [CV](#curriculum-vitae)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
