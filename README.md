@@ -11,7 +11,7 @@
 ## About Me
 
 ## Curriculum Vitae
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1lank3FD6OZd3rIXxPQ6urqDkwKIb7Fm9/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1Y46Zgvu9Vusi3bHWvAIs1fid2P7CQsrt/view?usp=sharing).
 
 ## Skills
 You can find examples of the described skills in the [Example of my work](#example-of-my-work) section.
