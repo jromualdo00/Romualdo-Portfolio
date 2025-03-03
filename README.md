@@ -17,7 +17,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 You can find examples of the described skills in the [Example of my work](#example-of-my-work) section.
 
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
+  * can perform manual functional and integration testing of web applications
   * gained hands-on experience by testing applications created for educational purposes
 
 __Test analysis & design__
@@ -29,17 +29,13 @@ __Mobile Testing__
   * can also test in Android Studio
     
 __API testing__
-  * Primarily utilized postman for testing rest apis
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
-
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+  * Primarily utilized postman for testing rest APIs
+  * gained experience through manual testing of APIs
 
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
-  * 
+    
 ## Tools
 __Confluence__
   * know how to create test cases and test suits
