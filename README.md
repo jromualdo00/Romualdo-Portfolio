@@ -84,6 +84,9 @@ __Cloudshop Portfolio Test Specification__
   * [Release 1](https://docs.google.com/spreadsheets/d/1j-GYyBVpflcO4v_CKdFuMdqqWyjW9vSY/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
   * [Release 1.2](https://docs.google.com/spreadsheets/d/1gIwqSlx0Cdo1Rb4QWrPoZ4w3v-a32wkE/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
   * [Release 1.3](https://docs.google.com/spreadsheets/d/16av_VBglhawZtlIbEfAVSKFzybQ2i1l2/edit?usp=sharing&ouid=113264289306342271496&rtpof=true&sd=true)
+    
+__Test case in Confluence__
+  * [Test case sample](https://drive.google.com/file/d/1JB99ouQ20DE7dGw40FXw6fepI6DMpgsf/view?usp=sharing) PDF uploaded file in [confluence](https://drive.google.com/file/d/1vAub1M2L8ZHdyGEaGUFrnKhiu6-PCVqG/view?usp=sharing)
  
 ### Bug reports and work in Jira
 __Defect reported in Jira__
